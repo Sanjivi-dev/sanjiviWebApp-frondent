@@ -1,0 +1,98 @@
+
+
+.lookaslayout{
+  margin-left: 20px;
+}
+.loginbody{
+  background-color: blue;
+}
+.loginform{
+  margin-left: 400px;
+  margin-bottom: 2000px;
+  background-color:rgb(239, 223, 233);
+  padding: 40px;
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+}
+.loginheading{
+  margin-left: 150px;
+  color: black;
+  font-size: 23px;
+}
+.loginlabel{
+  margin-left: 40px;
+  padding: 10px;
+  /* margin-top: 50px; */
+  display: flex;
+  flex-direction: column;
+  
+}
+.logininput{
+  /* margin-left: 83px; */
+  width: 280px;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px;
+}
+.loginpassword{
+  /* margin-left: 60px; */
+   width: 280px;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px;
+}
+.loginbutton{
+  margin-top: 10px;
+  margin-left: 100px;
+  font-size:25px;
+  background-color: rgba(64, 32, 246, 0.79);
+  color: white;
+  width: 100px;
+  height: 30px;
+  border-radius: 7px;
+  border: 2px;
+}
+.loginphara{
+  margin-left: 48px;
+  /* padding: 50px; */
+}
+.registercall{
+  font-size: 25px;
+}
+.trainee-link {
+  text-decoration: none;
+  color: white;
+  font-size: 29px;
+  background-color: sandybrown;
+}
+
+.trainee-link:hover {
+  color: rgb(13, 0, 255);
+  text-decoration: underline;
+}
+
+.trainee{
+  margin-left: 1000px;
+  color: white;
+  font-size: 29px;
+  text-decoration: none;
+  background-color: blue;
+  border: none;
+
+}
+
+.trainee:hover{ 
+  color: rgb(255, 0, 0);
+  font-size: 29px;
+}
+input{
+  border-radius: 8px;
+  border: 1px;
+  /* background-color: aqua; */
+} 
+label{
+  color: rgb(196, 113, 5);;
+}
+
+

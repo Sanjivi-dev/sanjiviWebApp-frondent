@@ -1,0 +1,125 @@
+.registrationform{
+  margin-left: 400px;
+  background-color: rgb(127, 166, 225);
+  max-width: 400px;
+  height: 450px;
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+.lookasheading{
+  margin-left: 120px;
+  /* color: rgb(147, 49, 180); */
+  color: black;
+}
+.Divfirstname{
+  margin-left: 30px;
+  /* margin: 20px; */
+  display: flex;
+  flex-direction: column;
+  /* width: 200px; */
+  /* height: 100px; */
+
+}
+.lookasul{
+  margin-left: 380px;
+  font-size: 40px;
+  width: 500px;
+  color: hsl(199, 98%, 17%);
+}
+/* .navbar {
+  margin: 0;
+  background-color: white;
+  display: flex;
+  padding-top: 10px;
+  padding-left: 20px;
+} */
+.Inputfirstname{
+  margin-left: 30px;
+  width: 200px;
+  height: 30px;
+}
+.Divlastname{
+  margin-left: 20px;
+  /* margin: 20px; */
+  padding: 10px;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.Inputlastname{
+  margin-left: 30px;
+  width: 200px;
+  height: 30px;  
+}
+.Divfathername{
+  margin-left: 20px;
+  padding: 10px;
+  /* margin: 20px; */
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  
+}
+.Inputfathername{
+  margin-left: 2px;
+  width: 200px;
+  height: 30px;
+}
+.Divdateofbirth{
+  margin-left: 30px;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.Inputdateofbirth{
+  margin-left: 30px;
+  width: 200px;
+  height: 35px;
+}
+.Dividproof{
+  margin-left: 30px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+.Inputidproof{
+  margin-left: 30px;
+  width: 200px;
+  height: 30px;
+
+ }
+/*  .divandSUBMIT{
+  background-color:rgb(224, 192, 164);
+  font-style:normal;
+  font-size: 25px;
+  width: 100px;
+  color: white;
+  border-radius: 7px;
+  border: 2px;
+  /* margin: 10px; */
+  /* margin-left: 50px */ */
+
+  
+  /* margin-top: 10px;
+  margin-left: 70px;
+  font-size:25px;
+  background-color: rgba(64, 32, 246, 0.79);
+  color: white;
+  width: 250px;
+  height: 30px;
+  border-radius: 7px;
+  border: 2px; */
+/* } */
+
+ 
+.black{
+  /* display: flex; */
+  /* flex-direction: row; */
+  /* margin-left: 100px; */
+  /* margin-top: 20px; */
+  /* border-radius: 70px;
+  border: 2px */
+  /* width: 1000px; */
+}
+label{
+  color: black;
+}
